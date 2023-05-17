@@ -1,6 +1,6 @@
-- 👋 Hi, I’m ! Yash
-- 👀 I’m interested in Nothing
-- 🌱 I’m currently learning Nothing
+- 👋 Hi, I’m ! Mayank
+- 👀 I’m interested in Exploring New Things
+- 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me (Plz Dont)
 
